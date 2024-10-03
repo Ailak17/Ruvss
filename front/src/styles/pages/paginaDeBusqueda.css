@@ -1,0 +1,22 @@
+.boton{
+    background: #a4f0fd;
+    height: 30px;
+    width: 200px;
+}
+.h11{
+    color: rgb(63, 63, 63);
+    font-family: 'Encode Sans';
+    font-size: 80px;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+.subirImagen label{
+    font-family: 'Encode Sans';
+    font-size: 25px;
+}
+ hr{
+    margin: 20px;
+
+ }
